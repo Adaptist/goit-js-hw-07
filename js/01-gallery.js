@@ -3,7 +3,6 @@ import { galleryItems } from './gallery-items.js';
 console.log(galleryItems);
 
 // Разметка
-console.log(galleryItems);
 
 const gallery = document.querySelector('.gallery');
 
